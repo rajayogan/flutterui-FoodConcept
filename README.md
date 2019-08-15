@@ -1,16 +1,14 @@
-# foodhero
+# Green Revolution
 
-A new Flutter project.
+Code for the screens created using flutter.
 
-## Getting Started
+Design Credit - https://dribbble.com/shots/6914808-Food-App-Main-page/attachments
 
-This project is a starting point for a Flutter application.
+How do I code this ? - https://youtu.be/itM08p44BnA
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
+![Screenshot_20190815-042805](https://user-images.githubusercontent.com/8137504/63108584-dd4f1500-bfa4-11e9-9107-d2deed89a79b.png)
+![Screenshot_20190815-042821](https://user-images.githubusercontent.com/8137504/63108585-dd4f1500-bfa4-11e9-928a-6a3c8dfebc58.png)
+![Screenshot_20190815-042840](https://user-images.githubusercontent.com/8137504/63108586-dde7ab80-bfa4-11e9-8086-79b10f3942f0.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
